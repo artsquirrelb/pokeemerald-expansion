@@ -1634,3 +1634,41 @@ const u16 gTilesetPalettes_UnionRoom[][16] =
 };
 
 const u32 gTilesetTiles_UnionRoom[] = INCBIN_U32("data/tilesets/secondary/union_room/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_CitrusOutdoor[][16] =
+{
+    INCBIN_U16("data/tilesets/primary/citrus_outdoor/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/primary/citrus_outdoor/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/primary/citrus_outdoor/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/primary/citrus_outdoor/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/primary/citrus_outdoor/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/primary/citrus_outdoor/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/primary/citrus_outdoor/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/primary/citrus_outdoor/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/primary/citrus_outdoor/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/primary/citrus_outdoor/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/primary/citrus_outdoor/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/primary/citrus_outdoor/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/primary/citrus_outdoor/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_CitrusOutdoor[] = INCBIN_U32("data/tilesets/primary/citrus_outdoor/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_CitrusOutdoor2[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/citrus_outdoor_2/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/citrus_outdoor_2/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/citrus_outdoor_2/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/citrus_outdoor_2/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/citrus_outdoor_2/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/citrus_outdoor_2/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/citrus_outdoor_2/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/citrus_outdoor_2/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/citrus_outdoor_2/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/citrus_outdoor_2/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/citrus_outdoor_2/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/citrus_outdoor_2/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/citrus_outdoor_2/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_CitrusOutdoor2[] = INCBIN_U32("data/tilesets/secondary/citrus_outdoor_2/tiles.4bpp.lz");
